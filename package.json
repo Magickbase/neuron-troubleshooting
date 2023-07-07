@@ -1,6 +1,6 @@
 {
   "name": "neuron-troubleshooting",
-  "packageManager": "yarn@3.5.1",
+  "packageManager": "yarn@3.6.1",
   "private": true,
   "workspaces": [
     "packages/*"
